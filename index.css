@@ -89,6 +89,13 @@ main {
     padding: 130px 150px;
     text-align: center;
 }
+.text-dectription{
+    text-align: center;
+    color: #474747;
+    font-size: 18px;
+    margin-bottom: 50px;
+    align-items: center;
+}
 
 .section-title {
     text-align: center;
@@ -121,3 +128,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
+
+/* what i do */
+ .what-i-do{
+    margin-top: 130px;
+
+ }
